@@ -16,7 +16,7 @@ export default class About extends Component {
         <Grid>
           <Col xs={12} sm={8} smOffset={2}>
             <Image src="assets/about.jpg" className="about-img" circle />
-            <h3>About Jana and Stringer</h3>
+            <h3>About Jana</h3>
             <p>It's life. It's interesting. It's fun. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. And right there you got an almighty cloud.</p>
             <p>Anyone can paint. You can do anything here. So don't worry about it. Life is too short to be alone, too precious. Share it with a friend. Every highlight needs it's own personal shadow.</p>
             <p>That's what makes life fun. That you can make these decisions. That you can create the world that you want. Of course he's a happy little stone, cause we don't have any other kind. It's so important to do something every day that will make you happy.</p>
