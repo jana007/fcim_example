@@ -1,0 +1,7 @@
+.about-img {
+   float: left;
+   margin: 0 1em 1em 0;
+   width: 70%;
+   height: 70%;
+   max-width: 250px;
+}
